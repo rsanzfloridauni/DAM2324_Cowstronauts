@@ -16,7 +16,7 @@ In this game you can earn Zlotys, the currency we will use to buy upgrades and r
 ## APK <a name = "APK"></a>
 
 Meanwhile our application is intended to use it while the server is running, you can test Cowstronauts with the APK! <br>
-[Download APK](https://github.com/rsanzfloridauni/DAM2324_Cowstronauts/universal.apk)
+[Download APK](https://github.com/rsanzfloridauni/DAM2324_Cowstronauts/blob/main/universal.apk)
 
 ## Dev Team <a name = "dev"></a>
 
