@@ -29,4 +29,4 @@ Sergi Romero Rey, serore@floridauniversitaria.es <br>
 
 ## Docs <a name = "docs"></a>
 We have our documentation regarding the backend of the project in the javadoc created
-[javadoc]()
+[javadoc](https://github.com/rsanzfloridauni/DAM2324_Cowstronauts/tree/back/Cowstronauts_back/doc)
